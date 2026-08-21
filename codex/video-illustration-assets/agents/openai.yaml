@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Illustration Assets"
+  short_description: "動画制作で保存済みAI人物イラスト素材を選定・活用"
+  default_prompt: "Use $video-illustration-assets to create a video that incorporates the saved AI/person illustration assets."

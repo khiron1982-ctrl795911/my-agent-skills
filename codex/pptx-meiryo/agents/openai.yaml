@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPTX Meiryo"
+  short_description: "python-pptx資料をメイリオ基準で生成・検証"
+  default_prompt: "Use $pptx-meiryo to create or revise a PPTX with Meiryo, 16:9 layout, and validation."

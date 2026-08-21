@@ -1,0 +1,4 @@
+interface:
+  display_name: "CLI Creator"
+  short_description: "Build durable command-line tools"
+  default_prompt: "Use $cli-creator to build a composable CLI from this source material, install it on PATH, test it from another folder, and create a companion skill."

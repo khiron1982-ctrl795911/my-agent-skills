@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI業務活用ガイド"
+  short_description: "自律型AIと音声AIを安全に業務活用する実務指針"
+  default_prompt: "Use $ai-workstyle-guide to plan a safe AI automation workflow for this task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT"
+  short_description: "PowerPoint資料の構成とデザインパターン選定を支援します。"
+  default_prompt: "PowerPoint資料を、目的と情報構造に合うデザインパターンで作成・改善してください。"
